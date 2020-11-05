@@ -60,7 +60,7 @@ Panda有7天退款政策，但申请退款需要说明理由。如果你发现�
 
 ### 价格超级便宜
 
-Ivacy VPN 除了提供优质的服务，价格也是非常低。
+[Ivacy VPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=github&data2=supertz) 除了提供优质的服务，价格也是非常低。
 
 我找到了最新的最新优惠码，多年套餐可用 **Ivacy20**
 

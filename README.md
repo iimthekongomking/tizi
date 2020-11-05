@@ -95,7 +95,7 @@ Ivacy VPN提供365天全年无休的线上客服，可以直接连线对话，�
 
 下载方式：点击页面后，找 Download 按钮；
 
-![Download](download.png)
+![Download](image/download.png)
 
 
 # 🌕 ExpressVPN

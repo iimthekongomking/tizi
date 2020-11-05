@@ -90,7 +90,7 @@ Ivacy VPN提供365天全年无休的线上客服，可以直接连线对话，�
 
 **注意**，其他平台仍然使用通用安装包即可，这几个安装包是为了更好的适应国内的使用。
 
-安装包下载地址： [Windows安装包](https://github.com/Super-VPN/tizi/raw/main/files/ivacy-windows.zip)     [Mac安装包](https://github.com/Super-VPN/tizi/raw/main/files/ivacy-mac.zip)      [Android安装包](https://github.com/Super-VPN/tizi/raw/main/files/ivc.apk)
+安装包下载地址： [Windows安装包](https://github.com/Super-VPN/tizi/raw/main/files/ivacywindowscn.zip)     [Mac安装包](https://github.com/Super-VPN/tizi/raw/main/files/ivacy-mac.zip)      [Android安装包](https://github.com/Super-VPN/tizi/raw/main/files/ivc_prime_2.1.1.apk)
 
 
 

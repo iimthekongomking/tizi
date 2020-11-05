@@ -92,9 +92,6 @@ Ivacy VPN提供365天全年无休的线上客服，可以直接连线对话，�
 
 安装包下载地址： [Windows安装包](files/ivacy-windows.zip)     [Mac安装包](files/ivacy-mac.zip)      [Android安装包](files/ivc.apk)
 
-下载方式：点击页面后，找 Download 按钮；
-
-![Download](image/download.png)
 
 
 # 🌕 ExpressVPN

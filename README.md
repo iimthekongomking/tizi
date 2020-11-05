@@ -84,6 +84,14 @@ Ivacy VPN提供365天全年无休的线上客服，可以直接连线对话，�
 
 几乎平常用到的系统都支持：Windows、Mac、Linux、Android、iOS、Chrome、Firefox、XBOX、PS4、Smart TV
 
+### 中国区安装包
+
+很多朋友可能找不到Windows、Mac、Android的中国区安装包，这里为大家下载了，可以自取。
+
+**注意**，其他平台仍然使用通用安装包即可，这几个安装包是为了更好的适应国内的使用。
+
+安装包下载地址： Windows安装包     Mac安装包      Android安装包
+
 
 # ExpressVPN
 
